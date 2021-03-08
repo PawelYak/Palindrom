@@ -1,0 +1,2 @@
+# Palindrom
+Cpp Palindrome exercise
