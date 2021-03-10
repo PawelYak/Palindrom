@@ -9,7 +9,7 @@ bool isPalindrom(const std::string &text) {
   return text == t2;
 }
 int main() {
-  std::cout << "Enter world: " << '\n';
+  std::cout << "Enter word: " << '\n';
   std::string inputText{};
   std::cin >> inputText;
 
